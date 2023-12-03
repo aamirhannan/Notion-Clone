@@ -1,0 +1,247 @@
+
+.container-heading{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+    text-align: center;
+}
+.container-heading>h1{
+    font-weight: bold;
+    font-size: 60px;
+}
+
+.container-heading>button{
+    margin-top: 20px;
+}
+
+.container-heading>img{
+    margin-top: 50px;
+    width: 800px;
+    height: auto;
+}
+
+.info-card{
+    display: flex;
+    justify-content: space-around;
+    width: 1000px;
+    gap: 20px;
+    margin: auto;
+
+}
+.first-carousel{
+    width: 1000px;
+    margin: auto;
+    margin-bottom: 80px;
+}
+
+/* Add this CSS to change the color of carousel control arrows to black */
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    background-color: black; /* Set the desired color */
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+    color: black; /* Set the desired color for the arrow icon */
+}
+
+.second-heading{
+    width: 1000px;
+    margin: auto;
+    text-align: center;
+}
+
+.second-heading>h1{
+    font-weight: bold;
+}
+
+.second-heading>a{
+    margin-top: 100px;
+}
+
+.giant-pensil{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    width: 1000px;
+    text-align: center;
+    align-items: center;
+    justify-content: end;
+    margin: auto;
+    margin-bottom: 100px;
+}
+
+.end-heading{
+    
+    width: 1020px;
+    text-align: center;
+    margin: auto;
+}
+
+.end-card{
+    display: flex;
+    justify-content: center;
+}
+
+.top-peak{
+    width: 1000px;
+    display: flex;
+    align-items: center;
+    margin: auto;
+}
+.top-peak>h1{
+    font-weight: bolder;
+}
+
+.second-corousel{
+    background-color: #f6f5f4;
+    width: 1000px;
+    margin: auto;
+    border-radius: 10px;
+}
+.inner-corousel{
+    width: 900px;
+    height: 600px;
+    margin: auto;
+    margin-top: 50px;
+}
+.inner-text{
+    width: 900px;
+    margin: auto;
+    padding-top: 50px;
+    
+}
+
+.inner-button{
+    width: 500px;
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+    padding-bottom: 30px;
+}
+
+.card{
+    margin-top: 50px;
+    padding: 20px;
+}
+
+
+.customised-card{
+    width: 1000px;
+    display: flex;
+    margin: auto;
+    gap: 50px;
+}
+
+.end-info{
+    text-align: left;
+}
+/* .end-info>h6{
+    margin-top: 0px;
+} */
+
+.tinder-logo{
+    width: 50px;
+    height: 50px;
+}
+
+.card-heading{
+    font-weight: bolder;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.marketing-card{
+    width: 1000px;
+    display: flex;
+    gap: 15px;
+    margin: auto;
+    /* align-items: center; */
+}
+
+.third-carousel{
+    width: 1000px;
+    height: 600px;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.third-heading{
+    margin-top: 100px;
+    text-align: center;
+}
+.third-heading>h1{
+    font-weight: bolder;
+}
+
+.detail-card{
+    width: 1000px;
+    display: flex;
+    margin: auto;
+    
+    gap: 20px;
+}
+
+.customised-card{
+    margin-bottom: 50px;
+}
+
+.end-heading{
+    margin-top: 50px;
+    /* background-color: red; */
+}
+
+.carousel-card{
+    width: 1000px;
+    margin: auto;
+    display: flex;
+    gap: 50px;
+}
+
+.last-carousel{
+    width: 500px;
+    height: auto;
+}
+
+/* .card-footer{
+    background-color: red;
+} */
+
+.footer{
+    width: 1000px;
+    
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    margin-top: 100px;
+    
+}
+.footer-card{
+    /* border: 1px solid red; */
+    text-align: center;
+}
+
+.list-design{
+    list-style: none;
+    text-align: left;
+}
+
+.last-heading{
+    width: 1000px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.last-heading>h1{
+    font-size: 60px;
+    font-weight: bolder;
+}
+
+.sub-last-heading{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+
